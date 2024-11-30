@@ -1,0 +1,53 @@
+DecalEntity : "{9ECFB26FBB0227A2}Prefabs/Decals/Markings/Runway/Decal_Runway_Line_White.et" {
+ ID "50E4C31FCE7FE3EB"
+ coords 8518.745 0.004 6692.223
+ angleX -89.956
+ angleY 180
+ angleZ 98.2
+ scale 0.2
+ Stretch 82.17
+ {
+  $grp DecalEntity : "{9ECFB26FBB0227A2}Prefabs/Decals/Markings/Runway/Decal_Runway_Line_White.et" {
+   {
+    ID "62CE5A2E1E25471B"
+    coords 22.068 -0.234 -0.002
+    angleX 0.002
+    angleY 0.016
+    angleZ 89.951
+    Stretch 64.97
+   }
+   {
+    ID "62CE5A2E1E2599EF"
+    coords 0.504 -0.035 0.02
+    angleX 0.002
+    angleY 0.016
+    angleZ 89.951
+    Stretch 64.97
+   }
+   {
+    ID "62CE5A2E1E25B4D1"
+    coords -41.335 -0.121 0.052
+    angleX 0.002
+    angleY 0.016
+    angleZ 89.951
+    Stretch 64.97
+   }
+   {
+    ID "62CE5A2E1E25B4D3"
+    coords -20.043 -0.086 0.03
+    angleX 0.002
+    angleY 0.016
+    angleZ 89.951
+    Stretch 64.97
+   }
+   {
+    ID "62CE5A2E1E5AC3B8"
+    coords 41.558 0.078 -0.017
+    angleX 0.002
+    angleY 0.016
+    angleZ 89.951
+    Stretch 64.97
+   }
+  }
+ }
+}

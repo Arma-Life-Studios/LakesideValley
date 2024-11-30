@@ -1,0 +1,878 @@
+GenericEntity {
+ ID "62C7228BD26A7091"
+ coords 8505.14 10.406 6600.918
+ {
+  $grp DecalEntity {
+   CW10 {
+    ID "62C7228BD2101C1F"
+    coords 32.114 0.068 -1.998
+    angleX -89.98
+    angleY -89.589
+    angleZ 9.942
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW13 {
+    ID "62C7228BD21039E9"
+    coords 29.673 0.068 -15.708
+    angleX -89.972
+    angleY -89.7
+    angleZ 9.671
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW14 {
+    ID "62C7228BD21095DF"
+    coords 65.621 -0.008 -16.768
+    angleX -90
+    angleY 22.532
+    angleZ 77.821
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW17 {
+    ID "62C7228BD2113259"
+    coords 68.048 -0.005 -3.056
+    angleX -90
+    angleY -157.524
+    angleZ -102.506
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW1_4LaneSU2 {
+    ID "62C7228BD211325E"
+    coords 46.146 -0.012 -26.981
+    angleX -90
+    angleZ -170.029
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW16 {
+    ID "62C7228BD211A025"
+    coords 64.805 -0.01 -21.238
+    angleX -90
+    angleY 22.532
+    angleZ 77.821
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW12 {
+    ID "62C7228BD211E210"
+    coords 32.933 0.068 2.473
+    angleX -89.98
+    angleY -89.589
+    angleZ 9.942
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW15 {
+    ID "62C7228BD211E211"
+    coords 67.256 -0.006 -7.8
+    angleX -90
+    angleY 22.532
+    angleZ 77.821
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW11 {
+    ID "62C7228BD211E9B0"
+    coords 30.464 0.068 -10.964
+    angleX -89.98
+    angleY -89.589
+    angleZ 9.942
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   {
+    ID "62C7228BD2123E64"
+    coords 39.164 0 0.279
+    angleX -90
+    angleY -13.612
+    scale 2.899
+    Flags 524291
+    Mat "{C15F6B4F0B60355E}Assets/Decals/Fluids/Oil/data/OilStain_01_Dry_extralarge.emat"
+   }
+   {
+    ID "62C7228BD212CDBC"
+    components {
+     SignalsManagerComponent "{62C7228BBEF4F7DA}" {
+     }
+     SoundComponent "{62C7228BBEF4F7AB}" {
+      Filenames {
+       "{69F9EC378CD2CC9C}Sounds/Structures/Infrastructure/Sewege/ManholeCover/Structures_ManholeCover_Decal.acp"
+      }
+      IncludeInactive 1
+     }
+    }
+    coords 51.445 0 -16.294
+    angleX -90
+    angleY -121.512
+    scale 1.5
+    Flags 524291
+    Mat "{4E422E381165CDC5}Assets/Decals/Asphalt/Manhole/Data/Decal_Asphalt_Manhole_01.emat"
+   }
+   {
+    ID "62C7228BD2130C87"
+    coords 40.34 0 6.868
+    angleX -89.956
+    angleY 58.334
+    angleZ -138.221
+    scale 2.037
+    Flags 524291
+    Mat "{925FB50643813C64}Assets/Decals/Asphalt/Patch/Data/Decal_Asphalt_Patch_L_01.emat"
+   }
+   {
+    ID "62C7228BD213815A"
+    coords 60.84 -0.001 -1.409
+    angleX -90
+    angleY -112.811
+    scale 2.647
+    Flags 524291
+    Mat "{BF16D3B7174B7273}Assets/Decals/Asphalt/Patch/Data/Decal_Asphalt_Patch_BlobCluster_02.emat"
+   }
+   {
+    ID "62C7228BD213815B"
+    coords 47.908 0 -33.167
+    angleX -90
+    angleY -68.458
+    scale 2.069
+    Flags 524291
+    Mat "{41DE74B7DB7251C9}Assets/Decals/Fluids/Oil/data/OilStain_01_medium.emat"
+   }
+   {
+    ID "62C7228BD213D9EF"
+    coords 51.712 0 -6.662
+    angleX -89.98
+    angleY -49.16
+    angleZ 75.531
+    scale 3.088
+    Flags 524291
+    Mat "{C15F6B4F0B60355E}Assets/Decals/Fluids/Oil/data/OilStain_01_Dry_extralarge.emat"
+   }
+   CW9 {
+    ID "62C7228BD216391D"
+    coords 55.106 -0.013 -28.551
+    angleX -90
+    angleY -88.021
+    angleZ -82.006
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW6 {
+    ID "62C7228BD21678CF"
+    coords 41.643 -0.011 -26.18
+    angleX -90
+    angleY -88.021
+    angleZ -82.006
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW8 {
+    ID "62C7228BD2167BEA"
+    coords 37.164 -0.011 -25.391
+    angleX -90
+    angleY -88.021
+    angleZ -82.006
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW7 {
+    ID "62C7228BD2167BEB"
+    coords 50.62 -0.013 -27.756
+    angleX -90
+    angleY -88.021
+    angleZ -82.006
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW1_4LaneSU3 {
+    ID "62C7228BD216809E"
+    coords 31.282 0.068 -6.496
+    angleX -90
+    angleY -89.42
+    angleZ 9.773
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   CW1_4LaneSU4 {
+    ID "62C7228BD216A7EF"
+    coords 66.453 -0.007 -12.27
+    angleX -90
+    angleZ 100.353
+    scale 4.572
+    Flags 524291
+    Mat "{0D7E3E057BE4CBEA}Assets/Decals/Markings/CrossWalks/Data/CrossWalk_01.emat"
+   }
+   {
+    ID "62C7228BD217A730"
+    coords 39.961 -0.003 -31.388
+    angleX -89.972
+    angleY 109.598
+    angleZ 173.397
+    scale 1.115
+    Flags 524291
+    Stretch 2
+    Mat "{B6D20D5D889D4D20}Assets/Decals/Asphalt/Patch/Data/Decal_Asphalt_Patch_Blob_02.emat"
+   }
+   {
+    ID "62C7228BD217A9C5"
+    coords 60.266 0.211 -20.586
+    angleX -89.98
+    angleY -39.904
+    angleZ -43.685
+    scale 1.097
+    Flags 524291
+    Stretch 2
+    Mat "{01F95801F111BED0}Assets/Decals/Asphalt/Damage/Data/Decal_Asphalt_Cracks_02.emat"
+   }
+   {
+    ID "62C7228BD217A9C6"
+    coords 35.673 -0.001 -6.221
+    angleX -90
+    angleY -167.519
+    angleZ 177.099
+    scale 2.953
+    Flags 524291
+    Stretch 2
+    Mat "{48214D1E83D7CABA}Assets/Decals/Asphalt/Damage/Data/Decal_Asphalt_Cracks_05.emat"
+   }
+   {
+    ID "62C7228BD217D2AF"
+    coords 43.506 0 12.228
+    angleX -89.98
+    angleY 141.92
+    angleZ 180
+    scale 3.138
+    Flags 524291
+    Mat "{1B9DA79D13646862}Assets/Decals/Fluids/Petrol/Data/PetrolStain_01.emat"
+   }
+   {
+    ID "62C7228BD26A5035"
+    coords 55.074 0 -18.208
+    angleX -90
+    angleY -153.824
+    scale 3.19
+    Flags 524291
+    Mat "{1D81392F9D88A300}Assets/Decals/Fluids/Oil/data/OilStain_01_Dry_medium.emat"
+   }
+  }
+  PolylineShapeEntity {
+   ID "62C7228BD26A706E"
+   coords 53.673 -0 -0.515
+  }
+  $grp RoadEntity {
+   {
+    ID "559C616BD81F77F9"
+    coords 47.953 -0.017 -33.449
+    angleX -0.04
+    angleY -179.693
+    SplinePoints {
+     ShapePoint "{612AD43839A0660F}" {
+      Position 1.199 0 -10.261
+     }
+     ShapePoint "{612AD43839A065E9}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    IsClosedSpline 0
+    Width 1.5
+   }
+   {
+    ID "559C616BD81F77F9"
+    coords 27.003 -0 -8.551
+    angleY -90
+    SplinePoints {
+     ShapePoint "{612AD43839A0660F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD43839A065E9}" {
+      Position 2.26 0 -3.488
+     }
+    }
+    IsClosedSpline 0
+    Width 1.5
+   }
+   {
+    ID "559C616BD81F77F9"
+    coords 24.804 0.068 -8.26
+    angleY -89.31
+    SplinePoints {
+     ShapePoint "{612AD43839A0660F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD43839A065E9}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    IsClosedSpline 0
+    Width 1.5
+   }
+   {
+    ID "559C616BD81F77F9"
+    coords 72.933 -0.009 -10.505
+    angleX -0.02
+    angleY 90.69
+    angleZ 0.02
+    SplinePoints {
+     ShapePoint "{612AD43839A0660F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD43839A065E9}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    IsClosedSpline 0
+    Width 1.5
+   }
+  }
+  $grp RoadEntity {
+   {
+    ID "56A8C9F906BDF4B1"
+    coords 25.954 0.068 -2.74
+    angleY -89.31
+    SplinePoints {
+     ShapePoint "{56A8C9FA35C571F9}" {
+      Position -16.473 0 -0.665
+     }
+     ShapePoint "{56A8C9FA35C57048}" {
+      Position -3.274 0 -2.859
+     }
+     ShapePoint "{612AD43FE1480A7E}" {
+      Position 10.024 0 -5.169
+     }
+    }
+    IsClosedSpline 0
+    Width 0.35
+    RandomSeed 21849
+   }
+   {
+    ID "56A8C9F906BDF4B1"
+    coords 66.975 -0.008 -15.223
+    angleX -0.02
+    angleY 90.69
+    angleZ 0.02
+    SplinePoints {
+     ShapePoint "{56A8C9FA35C571F9}" {
+      Position -16.689 0 -0.822
+     }
+     ShapePoint "{56A8C9FA35C57048}" {
+      Position -3.357 0 -3.084
+     }
+     ShapePoint "{612AD43FE547D13A}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    IsClosedSpline 0
+    Width 0.35
+    RandomSeed 17254
+   }
+   {
+    ID "56A8C9F906BDF4B1"
+    coords 42.423 -0.016 -32.334
+    angleX -0.04
+    angleY -179.693
+    SplinePoints {
+     ShapePoint "{56A8C9FA35C571F9}" {
+      Position -16.472 0 -0.665
+     }
+     ShapePoint "{56A8C9FA35C57048}" {
+      Position -3.275 0 -2.859
+     }
+     ShapePoint "{612AD43FE1480A7E}" {
+      Position 10.024 0 -5.169
+     }
+    }
+    IsClosedSpline 0
+    Width 0.35
+    RandomSeed 29783
+   }
+   {
+    ID "56A8C9F906BDF4B1"
+    coords 30.745 0.068 -3.544
+    angleY -89.31
+    SplinePoints {
+     ShapePoint "{56A8C9FA35C571F9}" {
+      Position -16.689 0 -0.822
+     }
+     ShapePoint "{56A8C9FA35C57048}" {
+      Position -3.357 0 -3.084
+     }
+     ShapePoint "{612AD43FE547D13A}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    IsClosedSpline 0
+    Width 0.35
+    RandomSeed 13246
+   }
+   {
+    ID "56A8C9F906BDF4B1"
+    coords 43.197 -0.012 -27.537
+    angleX -0.04
+    angleY -179.693
+    SplinePoints {
+     ShapePoint "{56A8C9FA35C571F9}" {
+      Position -16.688 0 -0.822
+     }
+     ShapePoint "{56A8C9FA35C57048}" {
+      Position -3.357 0 -3.084
+     }
+     ShapePoint "{612AD43FE547D13A}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    IsClosedSpline 0
+    Width 0.35
+    RandomSeed 30848
+   }
+  }
+  $grp SplineShapeEntity {
+   CWLineHider3 {
+    ID "62C7228BD214022E"
+    coords 24.804 0.068 -8.26
+    angleY -89.31
+    Points {
+     ShapePoint "{612AD4383FDA280F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD4383FDA3905}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    {
+     RoadGeneratorEntity : "{B0FB39C4902A9CD1}PrefabLibrary/Generators/Decals/Asphalt/RG_Asphalt_Patch_Stripe_01.et" {
+      ID "62C7228BD214022D"
+      coords 0 0 0
+     }
+    }
+   }
+   CWLineHider4 {
+    ID "62C7228BD2141756"
+    coords 72.933 -0.009 -10.505
+    angleX -0.02
+    angleY 90.69
+    angleZ 0.02
+    Points {
+     ShapePoint "{612AD4383FDA280F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD4383FDA3905}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    {
+     RoadGeneratorEntity : "{B0FB39C4902A9CD1}PrefabLibrary/Generators/Decals/Asphalt/RG_Asphalt_Patch_Stripe_01.et" {
+      ID "62C7228BD2141757"
+      coords 0 0 0
+     }
+    }
+   }
+   CWLine8 {
+    ID "62C7228BD214B2CD"
+    coords 66.975 -0.008 -15.223
+    angleX -0.02
+    angleY 90.69
+    angleZ 0.02
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.688 0 -0.822
+     }
+     ShapePoint "{612AD43FE547C69E}" {
+      Position -3.356 0 -3.084
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD214EA2F"
+      coords 0 0 0
+      RoadWidth 0.35
+     }
+    }
+   }
+   CWLine7 {
+    ID "62C7228BD214EA30"
+    coords 71.782 -0.01 -16.027
+    angleX -0.02
+    angleY 90.69
+    angleZ 0.02
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.408 0.004 -0.814
+     }
+     ShapePoint "{612AD43FE1483841}" {
+      Position -3.278 0.008 -2.89
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 9.884 0.012 -5.073
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD2170D4A"
+      coords 0 0 0
+      RoadWidth 0.35
+      {
+       RoadEntity {
+        ID "56A8C9F906BDF4B1"
+        SplinePoints {
+         ShapePoint "{56A8C9FA35C571F9}" {
+          Position -16.408 0.004 -0.814
+         }
+         ShapePoint "{56A8C9FA35C57048}" {
+          Position -3.278 0.008 -2.89
+         }
+         ShapePoint "{612AD43FE1480A7E}" {
+          Position 9.884 0.012 -5.073
+         }
+        }
+        IsClosedSpline 0
+        Width 0.35
+        RandomSeed 21454
+       }
+      }
+     }
+    }
+   }
+   CWLine5 {
+    ID "62C7228BD2156232"
+    coords 25.954 0.068 -2.74
+    angleY -89.31
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.473 0 -0.665
+     }
+     ShapePoint "{612AD43FE1483841}" {
+      Position -3.274 0 -2.859
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 10.024 0 -5.169
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD215934E"
+      coords 0 0 0
+      RoadWidth 0.35
+     }
+    }
+   }
+   CWLine3 {
+    ID "62C7228BD21D4C87"
+    coords 42.423 -0.016 -32.334
+    angleX -0.04
+    angleY -179.693
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.473 0 -0.665
+     }
+     ShapePoint "{612AD43FE1483841}" {
+      Position -3.274 0 -2.859
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 10.024 0 -5.169
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD21DC369"
+      coords 0 0 0
+      RoadWidth 0.35
+     }
+    }
+   }
+   CWLineHider2 {
+    ID "62C7228BD26A5033"
+    coords 47.953 -0.017 -33.449
+    angleX -0.04
+    angleY -179.693
+    Points {
+     ShapePoint "{612AD4383FDA280F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD4383FDA3905}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    {
+     RoadGeneratorEntity : "{B0FB39C4902A9CD1}PrefabLibrary/Generators/Decals/Asphalt/RG_Asphalt_Patch_Stripe_01.et" {
+      ID "62C7228BD26A503D"
+      coords 0 0 0
+     }
+    }
+   }
+   {
+    ID "62C7228BD26A503C"
+    coords 27.003 -0 -8.551
+    angleY -90
+    Points {
+     ShapePoint "{612AD4383FDA280F}" {
+      Position 1.198 0 -10.261
+     }
+     ShapePoint "{612AD4383FDA3905}" {
+      Position 2.26 0 -3.489
+     }
+    }
+    {
+     RoadGeneratorEntity : "{B0FB39C4902A9CD1}PrefabLibrary/Generators/Decals/Asphalt/RG_Asphalt_Patch_Stripe_01.et" {
+      ID "62C7228BD26A503F"
+      coords 0 0 0
+     }
+    }
+   }
+   {
+    ID "62C7228BD26A96D4"
+    coords 53.749 -0 -6.497
+   }
+   CWLine4 {
+    ID "62C7228BD26ACC4B"
+    coords 43.197 -0.012 -27.537
+    angleX -0.04
+    angleY -179.693
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.688 0 -0.822
+     }
+     ShapePoint "{612AD43FE547C69E}" {
+      Position -3.356 0 -3.084
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD26ACC4A"
+      coords 0 0 0
+      RoadWidth 0.35
+     }
+    }
+   }
+   CWLine6 {
+    ID "62C7228BD26ACC4D"
+    coords 30.745 0.068 -3.544
+    angleY -89.31
+    Points {
+     ShapePoint "{612AD438AB884801}" {
+      Position -16.688 0 -0.822
+     }
+     ShapePoint "{612AD43FE547C69E}" {
+      Position -3.356 0 -3.084
+     }
+     ShapePoint "{612AD438AB8859CE}" {
+      Position 9.908 0 -5.293
+     }
+    }
+    {
+     RoadGeneratorEntity : "{84A7EE8056C08185}PrefabLibrary/Generators/Decals/Runway/RG_Runway_Line50_01.et" {
+      ID "62C7228BD2156233"
+      coords 0 0 0
+      RoadWidth 0.35
+     }
+    }
+   }
+  }
+  $grp StaticModelEntity {
+   {
+    ID "62C7228BD21095DC"
+    components {
+     MeshObject "{62C7228BBEF54C23}" {
+      Object "{6D5ADDCFB1D5666D}Assets/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.xob"
+      LODFactors {
+       50 40 30 10 5 1 1
+      }
+      ClutterOccluder 1
+     }
+     RigidBody "{62C7228BBEF54C07}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 62.491 -0.003 -25.461
+    angleY -170.261
+    Flags 525315
+    placement slopelandcontact
+   }
+   {
+    ID "62C7228BD212B281"
+    components {
+     MeshObject "{62C7228BBEF4F2EC}" {
+      Object "{35F1F5BE26E93A60}Assets/Structures/Infrastructure/Sewage/ManholeCover_E_02/ManholeCover_E_02.xob"
+     }
+     RigidBody "{62C7228BBEF4F2E6}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 40.961 -0 13.609
+    angleY 10.202
+   }
+   {
+    ID "62C7228BD212CDB3"
+    components {
+     SignalsManagerComponent "{62C7228BBEF49AC7}" {
+     }
+     SoundComponent "{62C7228BBEF49AD1}" {
+      Filenames {
+       "{26979D976E82525F}Sounds/Structures/Infrastructure/Sewege/ManholeCover/Structures_ManholeCover_E_01.acp"
+      }
+      IncludeInactive 1
+     }
+     MeshObject "{62C7228BBEF48D04}" {
+      Object "{09EB571C9645225C}Assets/Structures/Infrastructure/Sewage/ManholeCover_E_01/ManholeCover_E_01.xob"
+     }
+     RigidBody "{62C7228BBEF48D19}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 54.322 -0 1.163
+    angleY -165.426
+   }
+   {
+    ID "62C7228BD2132DB2"
+    components {
+     MeshObject "{62C7228BBEF54D79}" {
+      Object "{6D5ADDCFB1D5666D}Assets/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.xob"
+      LODFactors {
+       50 40 30 10 5 1 1
+      }
+      ClutterOccluder 1
+     }
+     RigidBody "{62C7228BBEF54D41}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 32.864 -0.003 -22.766
+    angleY -80.261
+    Flags 525315
+    placement slopelandcontact
+   }
+   {
+    ID "62C7228BD2170D4B"
+    components {
+     MeshObject "{62C7228BBEF5480B}" {
+      Object "{6D5ADDCFB1D5666D}Assets/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.xob"
+      LODFactors {
+       50 40 30 10 5 1 1
+      }
+      ClutterOccluder 1
+     }
+     RigidBody "{62C7228BBEF54810}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 64.808 -0.003 3.79
+    angleY 99.739
+    Flags 525315
+    placement slopelandcontact
+   }
+   {
+    ID "62C7228BD217769A"
+    components {
+     MeshObject "{62C7228BBEF54AAC}" {
+      Object "{6D5ADDCFB1D5666D}Assets/Structures/Infrastructure/Pavements/AsphaltPavement_01/AsphaltPavement_01_Wide_End_Right.xob"
+      LODFactors {
+       50 40 30 10 5 1 1
+      }
+      ClutterOccluder 1
+     }
+     RigidBody "{62C7228BBEF54A83}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 35.32 -0.003 6.792
+    angleY 9.739
+    Flags 525315
+    placement slopelandcontact
+   }
+   {
+    ID "62C7228BD21D4CBC"
+    components {
+     SignalsManagerComponent "{62C7228BBEF4B178}" {
+     }
+     SoundComponent "{62C7228BBEF4B174}" {
+      Filenames {
+       "{26979D976E82525F}Sounds/Structures/Infrastructure/Sewege/ManholeCover/Structures_ManholeCover_E_01.acp"
+      }
+      IncludeInactive 1
+     }
+     MeshObject "{62C7228BBEF4B152}" {
+      Object "{09EB571C9645225C}Assets/Structures/Infrastructure/Sewage/ManholeCover_E_01/ManholeCover_E_01.xob"
+     }
+     RigidBody "{62C7228BBEF4B12E}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 49.964 0.001 -9.504
+    angleY -43.485
+   }
+   {
+    ID "62C7228BD21D4F80"
+    components {
+     SignalsManagerComponent "{62C7228BBEF4B2BA}" {
+     }
+     SoundComponent "{62C7228BBEF4B2B5}" {
+      Filenames {
+       "{26979D976E82525F}Sounds/Structures/Infrastructure/Sewege/ManholeCover/Structures_ManholeCover_E_01.acp"
+      }
+      IncludeInactive 1
+     }
+     MeshObject "{62C7228BBEF4B269}" {
+      Object "{09EB571C9645225C}Assets/Structures/Infrastructure/Sewage/ManholeCover_E_01/ManholeCover_E_01.xob"
+     }
+     RigidBody "{62C7228BBEF4B262}" {
+      ModelGeometry 1
+      Static 1
+     }
+    }
+    coords 37.923 -0 -4.378
+    angleY -4.526
+   }
+  }
+  DecalEntity : "{1BCCB7FD57F20F04}Prefabs/Decals/Core/Decal_Entity_Base.et" {
+   ID "62C7228BD21D4CBB"
+   coords 34.304 -0.001 -18.332
+   angleX -90
+   angleY 26.544
+   angleZ -14.566
+   scale 1.447
+   editorData {
+    RandomizationEditorData "{55DAD3EBF637E765}" {
+     randomYaw 1
+     randomScale 1 1.5
+    }
+   }
+   Stretch 2
+   Mat "{BC290A868E0AA2CE}Assets/Decals/Asphalt/Damage/Data/Decal_Asphalt_Cracks_04.emat"
+  }
+  StaticModelEntity : "{1FE98F22E001FD19}Prefabs/Vegetation/Plant/CurbsideWeeds_03.et" {
+   ID "62C7228BD21D4C86"
+   coords 34.304 -0.001 -18.332
+   angleX 0.027
+   angleY 11.978
+   angleZ -0.007
+   scale 0.965
+  }
+ }
+}

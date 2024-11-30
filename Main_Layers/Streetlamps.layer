@@ -1,0 +1,29 @@
+GenericEntity BlackMarketGunMaker3 : "{403E2B0BE16D6CC9}Prefabs/ItemShop_Base.et" {
+ components {
+  ADM_ShopComponent "{5D775155BFB12BA4}" {
+   m_ShopName "Legal Weapon Crafter"
+   m_ShopConfig "{B70F89D713711B55}Configs/Shops/LegalWeaponCrafter.conf"
+  }
+  SCR_MapDescriptorComponent "{628458FD0773B331}" {
+   DisplayName "Legal Weapon Crafter"
+   MainType "Name Generic"
+  }
+ }
+ coords 5353.396 12.739 3037.467
+ angleY -42.293
+}
+ZEL_SafeZoneEntity : "{98AD581B92D08AF3}Prefabs/Zones/Safe/SafeZone.et" {
+ coords 8522.963 8.582 6789.308
+ angleY -170.161
+ TriggerShapeType "Oriented Bounding Box"
+ SphereRadius 84.5
+ BoxMins -53.2 -0.5 -48.2
+ BoxMaxs 11.1 56.3 40.3
+ ShapeColor 0.318 0.561 0.071 0.087
+ UpdatePeriod 2
+ m_RemovalDelay 1
+}
+SCR_DestructibleBuildingEntity : "{C8DDEA74C6C034E9}Prefabs/Buildings/Shop 3.et" {
+ coords 5349.225 12.653 3039.412
+ angleY -175.22
+}
