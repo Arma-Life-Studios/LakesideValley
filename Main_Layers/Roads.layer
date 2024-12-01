@@ -169,7 +169,7 @@ $grp SplineShapeEntity {
    RoadGeneratorEntity : "{3FEA8C731C4AE439}Prefabs/WEGenerators/Roads/2LanesSolidLine.et" {
     coords 0 0 0
     AdjustHeightMap 0
-    RoadWidth 15.2
+    RoadWidth 18.2
     {
      RoadEntity {
       ID "612AAEE15A826AAB"
@@ -331,14 +331,14 @@ $grp SplineShapeEntity {
         Position 1884.405 -13.321 1835.91
        }
        ShapePoint "{612AAEE1FD885513}" {
-        Position 1906.703 -14.736 1876.857
+        Position 1906.704 -14.736 1876.857
        }
        ShapePoint "{62CE380E7BB8A22A}" {
         Position 1915.674 -14.431 1889.876
        }
       }
       IsClosedSpline 0
-      Width 15.2
+      Width 18.2
       VScale 1
      }
     }
@@ -428,7 +428,7 @@ $grp SplineShapeEntity {
    RoadGeneratorEntity : "{3FEA8C731C4AE439}Prefabs/WEGenerators/Roads/2LanesSolidLine.et" {
     coords 0 0 0
     AdjustHeightMap 0
-    RoadWidth 13.9
+    RoadWidth 16.4
     {
      RoadEntity {
       ID "612AAEE15A826AAB"
@@ -510,7 +510,7 @@ $grp SplineShapeEntity {
        }
       }
       IsClosedSpline 0
-      Width 13.9
+      Width 16.4
      }
     }
    }
@@ -5322,6 +5322,7 @@ $grp SplineShapeEntity {
    RoadGeneratorEntity : "{3FEA8C731C4AE439}Prefabs/WEGenerators/Roads/2LanesSolidLine.et" {
     coords 0 0 0
     AdjustHeightMap 0
+    RoadWidth 20.9
     {
      RoadEntity {
       ID "612AAEE15A826AAB"
@@ -5367,7 +5368,7 @@ $grp SplineShapeEntity {
        }
       }
       IsClosedSpline 0
-      Width 12
+      Width 20.9
      }
     }
    }

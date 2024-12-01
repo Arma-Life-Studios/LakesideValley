@@ -20,7 +20,7 @@ $grp PolylineShapeEntity {
   }
  }
  {
-  coords 9526.031 0 9763.821
+  coords 9526.031 0 9763.82
   Points {
    ShapePoint "{62C651C291F9189D}" {
     Position 53.883 -0.844 -50.071
